@@ -1,0 +1,21 @@
+.nav {
+    background-color: rgb(72, 5, 148);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.nav li { 
+    display: inline;
+    margin: 5%;
+    text-align: center;
+    } 
+
+.home{
+    background-image: url(../assets/background.jpg);
+    background-size: 100%;
+}
+    
+  
+
